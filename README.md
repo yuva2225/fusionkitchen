@@ -1,11 +1,26 @@
 # Fusion Kitchen
 
-Author = Yuva kishore
+Fusion Kitchen is a stylish restaurant website built using HTML and CSS. This website showcases the restaurant's menu, and featured dishes. The design is clean, user-friendly, and optimized for both desktop and mobile users.
 
-Licence = The above is public for all.
+## Features
+Beautifully designed menu with categorized food items
 
-This a simple restaurant card built using HTML,CSS. 
+Specials section to highlight daily or seasonal offers
 
-For a restaurant opening to attract new customers
+Responsive layout for seamless viewing on all devices
 
-website link:https://fusionkitechrestaurant.netlify.app/#
+Attractive UI with CSS animations and styling
+
+Contact section for reservations and inquiries
+
+## Technologies Used
+HTML – Structure of the website pages
+
+CSS – Styling and layout enhancements
+
+## Project Website
+https://fusionkitechrestaurant.netlify.app/
+
+## Screenshot
+![pic3](https://github.com/user-attachments/assets/c7fcb721-fa91-44ac-8540-568d566e2f13)
+
